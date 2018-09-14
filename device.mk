@@ -430,3 +430,7 @@ PRODUCT_PACKAGES += \
     libwifi-hal-qcom \
     wpa_supplicant \
     wpa_supplicant.conf
+
+# TWRP
+PRODUCT_COPY_FILES += \
+    device/essential/mata/twrp/twrp.fstab:recovery/root/etc/twrp.fstab
