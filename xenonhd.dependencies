@@ -1,0 +1,10 @@
+[
+  {
+    "repository": "android_kernel_essential_mata",
+    "target_path": "kernel/essential/mata"
+  },
+  {
+    "repository": "android_packages_resources_devicesettings",
+    "target_path": "packages/resources/devicesettings"
+  }
+]

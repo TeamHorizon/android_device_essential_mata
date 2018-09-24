@@ -15,4 +15,4 @@
 #
 
 PRODUCT_MAKEFILES += \
-    device/essential/mata/aosip.mk
+    device/essential/mata/xenonhd_mata.mk
